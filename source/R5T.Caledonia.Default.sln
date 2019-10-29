@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Caledonia.Types", "..\.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Caledonia.Base", "..\..\R5T.Caledonia.Base\source\R5T.Caledonia.Base\R5T.Caledonia.Base.csproj", "{D2558EA0-CF57-42F1-8604-DD7243BF39F7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Magyar", "..\..\R5T.Magyar\source\R5T.Magyar\R5T.Magyar.csproj", "{301BC3C8-E641-4B40-AB26-E1F48B302A72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,18 @@ Global
 		{D2558EA0-CF57-42F1-8604-DD7243BF39F7}.Release|x64.Build.0 = Release|Any CPU
 		{D2558EA0-CF57-42F1-8604-DD7243BF39F7}.Release|x86.ActiveCfg = Release|Any CPU
 		{D2558EA0-CF57-42F1-8604-DD7243BF39F7}.Release|x86.Build.0 = Release|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Debug|x64.Build.0 = Debug|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Debug|x86.Build.0 = Debug|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Release|x64.ActiveCfg = Release|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Release|x64.Build.0 = Release|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Release|x86.ActiveCfg = Release|Any CPU
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +106,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2A818C66-2FAF-4704-BEB7-FB277EDCDE64} = {A035CCF5-87F8-4847-8049-FF7F15683EC7}
 		{D2558EA0-CF57-42F1-8604-DD7243BF39F7} = {A035CCF5-87F8-4847-8049-FF7F15683EC7}
+		{301BC3C8-E641-4B40-AB26-E1F48B302A72} = {A035CCF5-87F8-4847-8049-FF7F15683EC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D3C355AC-8969-4590-9192-72CA9A934DBB}
