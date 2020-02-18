@@ -7,5 +7,6 @@
   <ItemGroup>
     <ProjectReference Include="..\..\..\R5T.Caledonia.Base\source\R5T.Caledonia.Base\R5T.Caledonia.Base.csproj" />
     <ProjectReference Include="..\..\..\R5T.Caledonia.Types\source\R5T.Caledonia.Types\R5T.Caledonia.Types.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Dacia.Extensions\source\R5T.Dacia.Extensions\R5T.Dacia.Extensions.csproj" />
   </ItemGroup>
 </Project>
